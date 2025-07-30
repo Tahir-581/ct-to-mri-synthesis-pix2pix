@@ -57,13 +57,13 @@ This project synthesizes high-fidelity MRI images from CT scans using a Conditio
 
 | CT Slice | Synthesized MRI |
 |----------|-----------------|
-| ![CT](assets/ct_sample.png) | ![MRI](assets/mri_output_sample.png) |
+| ![CT](assets/ct_sample.PNG) | ![MRI](assets/mri_output_sample.PNG) |
 
 ---
 
 ## 📈 Training Curve
 
-![Training Curve](assets/training_curve.png)
+![Training Curve](assets/training_curve.PNG)
 
 ---
 
