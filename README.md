@@ -25,7 +25,7 @@ This project synthesizes high-fidelity MRI images from CT scans using a Conditio
 
 ## 🧠 Architecture
 
-![Architecture](assets/arch_diagram.png)
+![Architecture](assets/arch_diagram.PNG)
 
 ---
 
