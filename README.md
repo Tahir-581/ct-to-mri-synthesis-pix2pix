@@ -55,9 +55,9 @@ This project synthesizes high-fidelity MRI images from CT scans using a Conditio
 
 ## 📷 Sample Outputs
 
-| CT Slice | Synthesized MRI |
-|----------|-----------------|
-| ![CT](assets/ct_sample.PNG) | ![MRI](assets/mri_output_sample.PNG) |
+| Synthesized MRI |
+|-----------------|
+| ![MRI](assets/mri_output_sample.PNG) |
 
 ---
 
