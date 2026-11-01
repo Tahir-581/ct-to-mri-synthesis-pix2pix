@@ -1,0 +1,14 @@
+# Never commit medical imaging data or model weights
+*.nii
+*.nii.gz
+*.dcm
+*.npy
+*.npz
+*.h5
+*.keras
+data/
+datasets/
+weights/
+.ipynb_checkpoints/
+__pycache__/
+.env
